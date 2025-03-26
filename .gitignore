@@ -1,8 +1,8 @@
-/gpt2/*
-/sms_spam_collection/*
+/*
 *.pdf
 *.pth
 *.json
 *.csv
 *.txt
 *.zip
+.gitattributes
